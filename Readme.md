@@ -10,3 +10,6 @@
 - npm install mocha
 
 ## How to run
+
+- naviaget to to DXC-Fibonacci-series
+- run npm test
